@@ -28,7 +28,7 @@ print("""
 	     -noobie-
 """)
 
-base="https://nuubi.herokuapp.com"
+base="https://botmma.herokuapp.com"
 
 url = input("[In] Youtube URL: ")
 tipe = int(input("1. download MP3\n2. download MP4\n[In] Pilih: "))
